@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Website projects**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **umardaraz2925@gmail.com**
 
