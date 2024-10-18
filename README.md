@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umardraz2004&show_icons=true&locale=en&layout=compact" alt="umardraz2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umardraz2004&" alt="umardraz2004" /></p>
+<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=umardraz2004&" alt="umardraz2004" /></p>
