@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umardraz2004&label=Profile%20views&color=0e75b6&style=flat" alt="umardraz2004" /> </p>
 
-- 🔭 I’m currently working on **React js projects**
+- 🔭 I’m currently working on **MX bill web app**
 
-- 🌱 I’m currently learning **Advance React Concepts**
+- 🌱 I’m currently learning **Node js**
 
 - 👯 I’m looking to collaborate on **Website projects**
 
