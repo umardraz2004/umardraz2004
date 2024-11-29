@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Draz</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **MX bill web app**
+- 🔭 I’m currently working on **Android Application**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **React Native and Typescript**
 
 - 👯 I’m looking to collaborate on **Website projects**
 
