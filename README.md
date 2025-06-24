@@ -18,7 +18,8 @@
   <li>👩🏻‍💻 All of my projects are available at 
     <strong><a href="https://github.com/umardraz2004?tab=repositories">My Repositories</a></strong>
   </li>
-  <li>📫 Reach me at <a href="mailto:umardraz6965@gmail.com">Contact us</a></li>
+  <li>📫 Reach me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=umardraz6965@gmail.com" target="_blank">Contact us</a></li>
+
   <li>⚡ Fun fact: <strong>It's only 0 or 1</strong></li>
 </ul>
 
