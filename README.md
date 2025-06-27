@@ -91,16 +91,16 @@
 <h2> 📊 GitHub Stats </h2>
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=umardraz2004&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=umardraz2004&theme=tokyonight&hide_border=false" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umardraz2004&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umardraz2004&layout=compact&theme=tokyonight" />
 
 </div>
 
 <!-- =========================================================== -->
 <!-- 🌐 CONNECT WITH ME 🌐 -->
 <!-- =========================================================== -->
-<h2 style="border-bottom: 0px">🌐 Connect with Me:</h2>
+<h2>🌐 Connect with Me:</h2>
 
 <div>
 <!-- 👇 LinkedIn Badge -->
