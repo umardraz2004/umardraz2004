@@ -80,6 +80,7 @@
 <h3> 📱 Mobile Apps & Game Development</h3>
 
 <!-- Flutter -->
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=react-native&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 <!-- Unity -->
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
