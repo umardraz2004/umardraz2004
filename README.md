@@ -2,6 +2,10 @@
 <!-- 👋 HEADER 👋 -->
 <!-- =========================================================== -->
 <div>
+<img src="./assets/banner.png" />
+</div>
+
+<div>
   
 <h1>👋 Hi, I'm <strong>Muhammad Umar Draz</strong></h1>
 <h3> 
