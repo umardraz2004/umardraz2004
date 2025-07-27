@@ -84,6 +84,8 @@
 <h3> 📱 Mobile Apps & Game Development</h3>
 
 <!-- Flutter -->
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 <!-- Unity -->
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
@@ -108,13 +110,15 @@
 
 <div>
 <!-- 👇 LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/umar-khawar-927934311/" >
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!-- 📧 Email Badge -->
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <!-- 🌐 Portfolio Badge -->
-<a href="https://my-offical-portfolio.vercel.app/">
+<a href="https://muhammadumardrazportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
