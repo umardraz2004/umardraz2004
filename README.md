@@ -28,71 +28,49 @@
 </ul>
 
 <!-- =========================================================== -->
-<!-- 💻 TECH STACK 💻 -->
+<!-- 💻 BEAUTIFUL GROUPED ICONS TECH STACK 💻 -->
 <!-- =========================================================== -->
 <h1>💻 Tech Stack</h1>
 
-<div>
+<!-- 🎨 Frontend -->
+<h3>🎨 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+</p>
 
-<!-- 👇 Languages -->
-<h3> 👇 Languages</h3>
+<!-- ⚙️ Backend -->
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<!-- C# -->
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<!-- C++ -->
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<!-- Dart -->
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-<!-- CSS3 -->
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<!-- HTML5 -->
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<!-- Java -->
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<!-- TypeScript -->
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<!-- 📱 Mobile & Game Dev -->
+<h3>📱 Mobile & Game Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,unity" />
+</p>
 
-<!-- 🎨 UI Frameworks -->
-<h3> 🎨 UI Frameworks</h3>
+<!-- 💾 Databases -->
+<h3>💾 Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</p>
 
-<!-- Bootstrap -->
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<!-- TailwindCSS -->
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<!-- React -->
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<!-- 🛠️ Languages -->
+<h3>🛠️ Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,dart" />
+</p>
 
-<!-- ⚡️ Back End -->
-<h3> ⚡️ Back End</h3>
+<!-- 🔧 Tools -->
+<h3>🔧 Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<!-- NodeJS -->
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<!-- Express.js -->
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-
-<!-- 🗄️ Databases -->
-<h3> 🗄️ Databases</h3>
-
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<!-- Oracle -->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-<!-- 📱 Mobile Apps & Game Development -->
-<h3> 📱 Mobile Apps & Game Development</h3>
-
-<!-- Flutter -->
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-<!-- Unity -->
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-
-</div>
 <!-- =========================================================== -->
-<!-- 📈 STATS 📈 --> 
+<!-- 📈 STATS 📈 -->
 <!-- =========================================================== -->
 <h2> 📊 GitHub Stats </h2>
 <div align="center">
