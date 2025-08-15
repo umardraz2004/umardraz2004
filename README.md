@@ -66,7 +66,7 @@
 <!-- 🔧 Tools -->
 <h3>🔧 Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,android" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
 <!-- =========================================================== -->
