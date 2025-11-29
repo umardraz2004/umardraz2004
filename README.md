@@ -9,7 +9,7 @@
   
 <h1>👋 Hi, I'm <strong>Muhammad Umar Draz</strong></h1>
 <h3> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=5000&vLeft=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Explore+various+repos!;Web,+App,+Game+and+More">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=5000&vLeft=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Explore+various+repos!;WebApps,+AndroidApps,+Game+and+More">
 </h3>
 </div>
 
