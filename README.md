@@ -17,8 +17,8 @@
 <!-- 👇 INFO 👇 -->
 <!-- =========================================================== -->
 <ul>
-  <li>🔭 Currently working on <strong>MERN STACK</strong></li>
-  <li>🌱 Currently learning <strong>Web development</strong></li>
+  <li>🔭 Currently working on <strong>MovioLive a MERN Stack based Web App</strong></li>
+  <li>🌱 Currently learning <strong>Web App development</strong></li>
   <li>👩🏻‍💻 All of my projects are available at 
     <strong><a href="https://github.com/umardraz2004?tab=repositories">My Repositories</a></strong>
   </li>
