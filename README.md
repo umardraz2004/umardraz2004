@@ -55,6 +55,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 <!-- 🛠️ Languages -->
