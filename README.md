@@ -53,7 +53,7 @@
 <h3>📱 iOS Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=swift" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  <img height="48" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg](https://avatars.githubusercontent.com/u/4173184?s=200&v=4)" />
 </p>
 
 <!-- 💾 Databases -->
