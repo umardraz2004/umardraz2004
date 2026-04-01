@@ -17,8 +17,8 @@
 <!-- 👇 INFO 👇 -->
 <!-- =========================================================== -->
 <ul>
-  <li>🔭 Currently working on <strong>MovioLive a MERN Stack based Web App</strong></li>
-  <li>🌱 Currently learning <strong>Web App development</strong></li>
+  <li>🔭 Currently working on <strong>Final Year Project & Swift with UiKit</strong></li>
+  <li>🌱 Currently learning <strong>IOS Development</strong></li>
   <li>👩🏻‍💻 All of my projects are available at 
     <strong><a href="https://github.com/umardraz2004?tab=repositories">My Repositories</a></strong>
   </li>
@@ -48,6 +48,12 @@
 <h3>📱 Mobile & Game Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,react,unity" />
+</p>
+
+<h3>📱 iOS Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=swift" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 </p>
 
 <!-- 💾 Databases -->
