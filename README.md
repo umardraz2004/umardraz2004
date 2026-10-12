@@ -17,8 +17,8 @@
 <!-- 👇 INFO 👇 -->
 <!-- =========================================================== -->
 <ul>
-  <li>🔭 Currently working on <strong>Final Year Project & Swift with UiKit</strong></li>
-  <li>🌱 Currently learning <strong>IOS Development</strong></li>
+  <li>🔭 Currently working on <strong>iOS & macOS development</strong></li>
+  <li>🌱 Currently learning <strong>Swift, UIKit, AppKit and SwiftUI</strong></li>
   <li>👩🏻‍💻 All of my projects are available at 
     <strong><a href="https://github.com/umardraz2004?tab=repositories">My Repositories</a></strong>
   </li>
